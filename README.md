@@ -26,6 +26,9 @@ https://raw.githubusercontent.com/hbsyzstq/LinkSwift-mirror/main/LinkSwift.user.
 
 或把 `LinkSwift.user.js` 拖进脚本管理器仪表盘。
 
+> 实测：部分网络下 GitHub raw 链接不会被篡改猴拦截成安装页（会当纯文本显示），遇到就改用官方脚本猫源
+> `https://scriptcat.org/scripts/code/1604/LinkSwift.user.js`。
+
 ## 说明
 
 - 通过各网盘**公开 API** 获取直链，不破解限速；网盘页面需保持登录状态。
